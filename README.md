@@ -15,4 +15,4 @@ This repository contains a simple pipeline for RNA-seq differential expression a
 
 ## How to run:
 ```bash
-bash pipeline.sh
+sbatch pipeline.sh
