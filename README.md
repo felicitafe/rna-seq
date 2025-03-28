@@ -1,6 +1,6 @@
 # KO vs NT RNA-seq Pipeline
 
-This repository contains a simple pipeline for RNA-seq differential expression analysis between KO and NT samples.
+This repository contains a simple pipeline for RNA-seq differential expression analysis between Knock Out and Non Target samples.
 
 ## Pipeline Steps:
 1. Quality control with `fastp`
